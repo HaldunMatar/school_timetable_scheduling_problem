@@ -1,0 +1,5 @@
+ortools>=9.8
+ttkbootstrap>=2.0
+reportlab>=4.0
+arabic-reshaper>=3.0
+python-bidi>=0.6
